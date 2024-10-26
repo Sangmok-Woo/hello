@@ -23,6 +23,5 @@ num2 = float(input("두 번째 숫자를 입력하세요: "))
 print("더하기 결과:", add(num1,num2))
 print("빼기 결과:", add(num1,num2))
 print("곱하기 결과:", multiply(num1,num2))
-print("나누기 결과:", divide(num1,num2))
 
 
